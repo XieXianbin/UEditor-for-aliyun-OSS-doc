@@ -1,22 +1,26 @@
 ---
 layout: default
-title: "Jekyll Docs Template"
+title: "UEditor-for-aliyun-OSS 简介"
 ---
 
-<p class="lead">Tired of long and unmanageable single-page READMEs deployed as your project's documentation? This minimal <a href="http://jekyllrb.com/">Jekyll</a> project template is specifically intended for simple static documentation sites deployable on GitHub Pages.</p>
+<p class="lead"> UEditor-for-aliyun-OSS 简介 </p>
 
-The template follows a very simple convention of defining categories that correspond to sections in the navigation. Here are the default ones (they are listed in the `_config.yml`):
+UEditor for aliyun OSS 是 [谢先斌](http://www.xiexianbin.cn) 基于Java ueditor1.4.3 UTF-8版本开发，集成了阿里云的开放存储服务(Open Storage Service,OSS)。
+二次开发的目的是将ueditor中上传的图片、视频、附近、涂鸦等同步到阿里云的OSS存储。
+优点：
 
-- `doc` - Documentation
-- `ref` - Reference
-- `tut` - Tutorial
-- `dev` - Developers
-- `post` - Posts
+- `适用于分布式及集群环境下对编辑器数据一致性的要求。` 
+- `采用云分发能提高图片、视频等的速度。`
+- `采用云存储保证数据的可靠性。`
+- `支持CDN和阿里云OSS的多地域节点等功能。` 
 
-Start by [creating a new post](http://jekyllrb.com/docs/posts/) one of the categories listed in `_config.yml`. It will appear in the navigation on the left once recompiled. Or use the supplied script to make creating pages easier:
+该项目相关的链接地址：
 
-```bash
-ruby bin/jekyll-page "Some Page Title" ref
-```
+- `[源码地址](https://github.com/XieXianbin/UEditor-for-aliyun-OSS)`
+- `[bug反馈地址](https://github.com/XieXianbin/UEditor-for-aliyun-OSS/issues)`
+- `[发布地址](https://github.com/XieXianbin/UEditor-for-aliyun-OSS/releases)`
+- `[FAQ地址]`
+- `[讨论地址]`
+- `QQ群：20038301`
 
-Read more [Usage]({{ site.baseurl }}{% post_url 2013-06-06-usage %}) page for more details or view the project [on GitHub](https://github.com/bruth/jekyll-docs-template/)
+查看更多 [使用]({{ site.baseurl }}{% post_url 2013-06-06-usage %}) page for more details or view the project [on GitHub](https://github.com/docs-xiexianbin/UEditor-for-aliyun-OSS-doc/)
