@@ -1,6 +1,6 @@
 # Site title and subtitle. This is used in _includes/header.html
-title: 'jekyll-docs-template'
-subtitle: 'Painless documentation for your projects'
+title: 'UEditor-for-aliyun-OSS-doc'
+subtitle: '简单配置&FAQ文档'
 
 # if you wish to integrate disqus on pages set your shortname here
 disqus_shortname: ''
