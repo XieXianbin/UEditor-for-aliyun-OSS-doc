@@ -4,7 +4,6 @@ language: ruby
 # whitelist
 branches:
   only:
-    - master
     - gh-pages
 script: "bundle exec jekyll build"
 
