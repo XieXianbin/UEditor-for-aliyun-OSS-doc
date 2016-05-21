@@ -1,3 +1,8 @@
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/bruth/jekyll-docs-template/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
-Read the docs: http://bruth.github.io/jekyll-docs-template
+## DOCS for UEditor-for-aliyun-OSS
+
+配置与FAQ文档
+
+## Build [![Travis-CI Build Status](https://travis-ci.org/docs-xiexianbin/UEditor-for-aliyun-OSS-doc.svg?branch=gh-pages)](https://travis-ci.org/docs-xiexianbin/UEditor-for-aliyun-OSS-doc)
+
+[详情](http://docs.xiexianbin.cn/UEditor-for-aliyun-OSS-doc)
