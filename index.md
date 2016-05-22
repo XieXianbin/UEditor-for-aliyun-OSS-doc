@@ -23,4 +23,4 @@ UEditor for aliyun OSS 是 [谢先斌](http://www.xiexianbin.cn) 基于Java uedi
 - [讨论地址]
 - QQ群：20038301
 
-查看更多 [使用]({{ site.baseurl }}{% post_url 2013-06-06-usage %}) page for more details or view the project [on GitHub](https://github.com/docs-xiexianbin/UEditor-for-aliyun-OSS-doc/)
+查看更多[详细使用]({{ site.baseurl }}{% post_url 2014-11-11-usage %}) 请参考 [源码](https://github.com/docs-xiexianbin/UEditor-for-aliyun-OSS-doc/)。
