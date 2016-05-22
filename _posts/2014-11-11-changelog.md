@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Changelog"
+title: "更新记录"
 category: dev
 order: 1
 ---

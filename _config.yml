@@ -22,9 +22,9 @@ sections: [
     ['doc', '文档说明'],
     ['tut', 'Tutorial'],
     ['ref', 'Reference'],
-    ['dev', '开发者'],
-    ['releases', '发布版本'],
-    ['faq', 'FAQ'],
+    ['dev', 'Developers'],
+    ['releases', 'Releases'],
+    ['faq', 'faq'],
     ['post', 'Posts']
 ]
 
