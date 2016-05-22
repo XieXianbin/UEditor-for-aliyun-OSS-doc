@@ -19,7 +19,7 @@ codeurl: 'http://docs.xiexianbin.cn/UEditor-for-aliyun-OSS-doc'
 
 # Default categories (in order) to appear in the navigation
 sections: [
-    ['doc', 'Documentation'],
+    ['doc', '文档说明'],
     ['tut', 'Tutorial'],
     ['ref', 'Reference'],
     ['dev', 'Developers'],
