@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Install & Setup"
+title: "安装与配置"
 category: doc
-date: 2013-06-06 11:01:37
+date: 2014-11-11 11:01:37
 order: 0
 ---
 

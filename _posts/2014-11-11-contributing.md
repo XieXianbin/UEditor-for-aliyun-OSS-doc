@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  Contributing
-date:   2013-06-03 21:12:57
+title:  "贡献代码"
+date:   2014-11-11 21:12:57
 category: dev
 order: 0
 ---

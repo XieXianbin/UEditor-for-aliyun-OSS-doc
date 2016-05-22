@@ -24,6 +24,7 @@ sections: [
     ['ref', 'Reference'],
     ['dev', 'Developers'],
     ['releases', 'Releases'],
+    ['faq', 'faq'],
     ['post', 'Posts']
 ]
 
