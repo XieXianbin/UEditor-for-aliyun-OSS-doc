@@ -9,18 +9,18 @@ UEditor for aliyun OSS 是 [谢先斌](http://www.xiexianbin.cn) 基于Java uedi
 二次开发的目的是将ueditor中上传的图片、视频、附近、涂鸦等同步到阿里云的OSS存储。
 优点：
 
-- `适用于分布式及集群环境下对编辑器数据一致性的要求。` 
-- `采用云分发能提高图片、视频等的速度。`
-- `采用云存储保证数据的可靠性。`
-- `支持CDN和阿里云OSS的多地域节点等功能。` 
+- 适用于分布式及集群环境下对编辑器数据一致性的要求。 
+- 采用云分发能提高图片、视频等的速度。
+- 采用云存储保证数据的可靠性。
+- 支持CDN和阿里云OSS的多地域节点等功能。 
 
 该项目相关的链接地址：
 
-- `[源码地址](https://github.com/XieXianbin/UEditor-for-aliyun-OSS)`
-- `[bug反馈地址](https://github.com/XieXianbin/UEditor-for-aliyun-OSS/issues)`
-- `[发布地址](https://github.com/XieXianbin/UEditor-for-aliyun-OSS/releases)`
-- `[FAQ地址]`
-- `[讨论地址]`
-- `QQ群：20038301`
+- [源码地址](https://github.com/XieXianbin/UEditor-for-aliyun-OSS)
+- [bug反馈地址](https://github.com/XieXianbin/UEditor-for-aliyun-OSS/issues)
+- [发布地址](https://github.com/XieXianbin/UEditor-for-aliyun-OSS/releases)
+- [FAQ地址]
+- [讨论地址]
+- QQ群：20038301
 
 查看更多 [使用]({{ site.baseurl }}{% post_url 2013-06-06-usage %}) page for more details or view the project [on GitHub](https://github.com/docs-xiexianbin/UEditor-for-aliyun-OSS-doc/)
